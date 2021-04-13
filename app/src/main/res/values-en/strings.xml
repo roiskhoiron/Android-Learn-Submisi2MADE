@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submisi 2 MADE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tvshow">Tv Show</string>
+
+    <string name="movies_name">Title :</string>
+    <string name="year">Release Date :</string>
+    <string name="director">Director :</string>
+    <string name="description">Overview</string>
+    <string name="setings">Setings</string>
+
+    <!-- DATA MOVIE -->
+    <string-array name="title_movies">
+        <item>Ad Astra</item>
+        <item>Star Wars: The Rise of Skywalker</item>
+        <item>Ip Man 4: The Finale</item>
+        <item>Jumanji: The Next Level</item>
+        <item>Joker</item>
+        <item>Frozen II</item>
+        <item>Gundala</item>
+        <item>Knives Out</item>
+        <item>Code 8</item>
+        <item>Gemini Man</item>
+    </string-array>
+
+    <string-array name="release_movies">
+        <item>September 17, 2019</item>
+        <item>December 18, 2019</item>
+        <item>December 20, 2019</item>
+        <item>December 4, 2019</item>
+        <item>October 2, 2019</item>
+        <item>November 20, 2019</item>
+        <item>August 29, 2019</item>
+        <item>November 27, 2019</item>
+        <item>December 6, 2019</item>
+        <item>October 2, 2019</item>
+    </string-array>
+
+    <string-array name="director_movies">
+        <item>James Gray</item>
+        <item>J.J. Abrams</item>
+        <item>Wilson Yip</item>
+        <item>Jake Kasdan</item>
+        <item>Todd Phillips</item>
+        <item>Jennifer Lee</item>
+        <item>Joko Anwar</item>
+        <item>Rian Johnson</item>
+        <item>Jeff Chan</item>
+        <item>Darren Lemke</item>
+    </string-array>
+
+    <string-array name="description_movies">
+        <item>The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.</item>
+        <item>The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.</item>
+        <item>Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.</item>
+        <item>As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.</item>
+        <item>During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</item>
+        <item>Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom</item>
+        <item>Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan\'s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan\'s untimely death.</item>
+        <item>When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan\'s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan\'s untimely death.</item>
+        <item>In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film \“Code 8,\” 2016.)</item>
+        <item>Ageing assassin, Henry Brogen tries to get out of the business but finds himself in the ultimate battle—fighting his own clone who is 25 years younger than him, and at the peak of his abilities.</item>
+    </string-array>
+
+    <string-array name="photo_movies">
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MwpeDrI7RbgD6bipT31kpMZe9u.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHQFqG0e5p9Fwhv5v6XIP9fLtYk.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU0orGizEpOli4wtN8HtfOOJDlA.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/84Xz2Jh60tC3ICO1CY27wc0zwgC.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg</item>
+    </string-array>
+
+
+    <!-- DATA TV SHOW -->
+    <string-array name="title_tvshows">
+        <item>The Mandalorian</item>
+        <item>Supernatural</item>
+        <item>The Simpsons</item>
+        <item>The Witcher</item>
+        <item>Vikings</item>
+        <item>NCIS</item>
+        <item>The Flash</item>
+        <item>Criminal Minds</item>
+        <item>Breaking Bad</item>
+        <item>Rick and Morty</item>
+    </string-array>
+
+    <string-array name="release_tvshows">
+        <item>November 12, 2019</item>
+        <item>September 13, 2005</item>
+        <item>December 17, 1989</item>
+        <item>December 20, 2019</item>
+        <item>March 3, 2013</item>
+        <item>September 23, 2003</item>
+        <item>October 7, 2014</item>
+        <item>September 22, 2005</item>
+        <item>January 20, 2008</item>
+        <item>December 2, 2013</item>
+    </string-array>
+
+    <string-array name="director_tvshows">
+        <item>Jon Favreau</item>
+        <item>Eric Kripke</item>
+        <item>Matt Groening</item>
+        <item>Lauren Schmidt</item>
+        <item>Michael Hirst</item>
+        <item>Donald P. Bellisario</item>
+        <item>Greg Berlanti</item>
+        <item>Jeff Davis</item>
+        <item>Vince Gilligan</item>
+        <item>Dan Harmon</item>
+    </string-array>
+
+    <string-array name="description_tvshows">
+        <item>Set after the fall of the Empire and before the emergence of the First Order, we follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their \'67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.</item>
+        <item>The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar\'s band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.</item>
+        <item>From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become...The Flash.</item>
+        <item>An elite team of FBI profilers analyze the country\'s most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit\'s most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.</item>
+        <item>When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family\'s financial future at any cost as he enters the dangerous world of drugs and crime.</item>
+        <item>Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty\'s already unstable family life, these events cause Morty much distress at home and school.</item>
+    </string-array>
+
+    <string-array name="photo_tvshows">
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTZQkSsxUFJZJe67IenRM0AEklc.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff1zhqvwfS5HvRNcA5UFrH0PA2q.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi8EvaWtL5CvoielOjjVvTr7ux3.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TCwgX7oQKxcWYEhSPRmaHe6ULN.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg</item>
+    </string-array>
+
+</resources>
